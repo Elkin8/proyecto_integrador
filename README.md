@@ -12,7 +12,7 @@
 
 ## 📋 Índice de Endpoints
 
-1. [Autenticación](#autenticación)
+1. [Autenticación](#https://github.com/Elkin8/proyecto_integrador/tree/main#iniciar-sesi%C3%B3n)
 2. [Gestión de Casas](#gestión-de-casas)
 3. [Noticias](#noticias)
 4. [Gastos Compartidos](#gastos-compartidos)
