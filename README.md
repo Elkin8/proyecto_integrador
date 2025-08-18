@@ -2,7 +2,7 @@
 
 ## Información General
 
-**Base URL:** `http://74.235.239.217:8000`
+**Base URL:** `http://74.235.239.217:8000/`
 
 **Autenticación:** Token-based authentication
 - Header requerido: `Authorization: Token <tu_token>`
