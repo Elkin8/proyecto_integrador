@@ -2,7 +2,7 @@
 
 ## Información General
 
-**Base URL:** `http://tu-servidor:8000/api/`
+**Base URL:** `http://74.235.239.217:8000/api/`
 
 **Autenticación:** Token-based authentication
 - Header requerido: `Authorization: Token <tu_token>`
